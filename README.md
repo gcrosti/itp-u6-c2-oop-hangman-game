@@ -1,10 +1,8 @@
 # Hangman Game
 
-> This project is part of our [Data Science](https://rmotr.com/data-science-python-course) and [Web Development](https://rmotr.com/web-development-django-python-course) courses.
+For this project, I practiced OOP while building a simple hangman game (part of the RMOTR Data Science course).
 
-For today's project, I practiced OOP while building a simple hangman game
-
-There will be three main classes:
+There are three main classes:
 
 * `HangmanGame`: the main interface for the user, the "general" game that will be used.
 * `GuessWord`: A word to guess. Is used by a `HangmanGame` to keep track of the word to guess.
